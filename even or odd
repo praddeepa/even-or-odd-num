@@ -1,0 +1,5 @@
+class solution:
+def oddEven(ob,n):
+    return "even" if n%2== else "odd"
+
+
